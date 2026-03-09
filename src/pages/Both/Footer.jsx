@@ -58,7 +58,7 @@ export default function Footer() {
        <footer className="bg-[#EFB8C8] py-8 px-6 text-center text-white">
         <p className="text-lg font-Title">Somos una floristería en línea</p>
         <div className="mt-4 flex justify-center items-center gap-3">
-          <span className="text-sm">Síguenos en instragram <br/>arreglitosv</span>
+          <span className="text-sm">Síguenos en Instragram <br/>arreglitosv</span>
           <a
             href="https://www.instagram.com/arreglitosv/"
             target="_blank"
