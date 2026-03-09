@@ -30,13 +30,7 @@ const developers = [
     phone: "+50379740311",
     whatsapp: "79740311",
   },
-  {
-    name: "Tatiana Galicia",
-    image: Dev4,
-    email: "tatigalicia2@gmail.com",
-    phone: "+50370460494",
-    whatsapp: "70460494",
-  },
+  
   
 ];
 
