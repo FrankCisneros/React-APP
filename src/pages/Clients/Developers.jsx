@@ -41,7 +41,7 @@ export default function ContactDevelopers() {
   return (
     <div className="bg-white p-10">
       <h2 className="text-3xl font-bold text-center mb-8 font-Title">
-        SMARTENTERPRICE FT TATIANA GALICIA
+        SMARTENTERPRICE
       </h2>
 
       <div className="flex flex-wrap justify-center gap-6 mb-10">
