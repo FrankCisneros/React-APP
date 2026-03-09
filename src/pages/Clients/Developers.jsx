@@ -20,7 +20,7 @@ const developers = [
     name: "Fernando Gómez",
     image: Dev2,
     email: "fer.devcraft@gmail.com",
-    phone: "+5036001205",
+    phone: "+50360013205",
     whatsapp: "60013205",
   },
   {
