@@ -10,6 +10,9 @@
     "preview": "vite preview",
     "start": "serve dist -s -n -L -p $PORT"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "dependencies": {
     "@railway/cli": "^3.21.0",
     "@tailwindcss/vite": "^4.0.14",
